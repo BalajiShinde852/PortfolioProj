@@ -5,20 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p> Hello Developers, Your hard work is never be wasted!!!</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Name: </h1>
-          <h1>Location: </h1>
-          Edit <code>src/App.js</code> and save to reload.
+          <h3>Note: This is Developers Adda !! </h3>
+          <h1 style={{color:"#eee"}}>Nandini & Balaji</h1>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Coding
-        </a>
+        
       </header>
     </div>
   );
